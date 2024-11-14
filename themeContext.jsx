@@ -19,8 +19,4 @@ export const ThemeProvider =({children}) =>{
         </ThemeContext.Provider>
     );
 
-};console.log('ThemeContext created');
-console.log('useTheme hook initialized');
-console.log('ThemeProvider initialized');
-console.log('Dark mode:', darkMode);
-console.log('Toggling dark mode');
+};
